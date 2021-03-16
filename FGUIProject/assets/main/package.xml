@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="a4fmegqm">
+  <resources>
+    <component id="mawg0" name="Component1.xml" path="/com/" exported="true"/>
+    <image id="bey61" name="item_01.png" path="/res/"/>
+    <image id="bey62" name="item_02.png" path="/res/"/>
+    <image id="bey63" name="item_03.png" path="/res/"/>
+    <image id="bey64" name="item_04.png" path="/res/"/>
+    <image id="bey65" name="item_05.png" path="/res/"/>
+    <image id="bey66" name="item_06.png" path="/res/"/>
+    <component id="f18g7" name="Component2.xml" path="/com/" exported="true"/>
+    <image id="zrm78" name="矩形 1624.png" path="/res/"/>
+  </resources>
+  <publish name="" genCode="true"/>
+</packageDescription>

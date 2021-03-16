@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,600">
+  <displayList>
+    <component id="n0_f18g" name="abc" src="mawg0" fileName="com/Component1.xml" xy="120,97"/>
+  </displayList>
+</component>
