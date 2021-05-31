@@ -1,28 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="64,64" pivot="0.5,0.5">
-  <controller name="c1" exported="true" pages="6,,0,,1,,2,,3,,4,,5," selected="2"/>
-  <controller name="c2" pages="0,,1," selected="0"/>
+<component size="80,80" pivot="0.5,0.5">
+  <controller name="c1" exported="true" pages="6,,0,,1,,2,,3,,4,,5,,7,,8,,9,,10,,11,,12,,13,,14,,15,,16,,17,,18,,19,,20,,21,,22,,23,,24,,25," selected="3"/>
+  <controller name="c2" alias="选择状态" pages="0,,1," selected="1">
+    <remark page="1" value="ed"/>
+  </controller>
+  <controller name="c3" pages="0,,2,,1,,3," selected="0">
+    <remark page="1" value="行"/>
+    <remark page="2" value="列"/>
+    <remark page="3" value="十"/>
+  </controller>
   <displayList>
-    <image id="n0_bey6" name="n0" src="bey61" fileName="res/item_01.png" xy="32,32" pivot="0.5,0.5" anchor="true" size="64,64">
+    <image id="n7_zrm7" name="n7" src="zrm78" fileName="res/元素/矩形 1624.png" xy="40,40" pivot="0.5,0.5" anchor="true" size="80,80" aspect="true" color="#00ff00">
+      <gearDisplay controller="c2" pages="1"/>
+    </image>
+    <image id="n8_oriu" name="n8" src="oriu9" fileName="res/元素/图层 1.png" xy="32,32" pivot="0.5,0.5" anchor="true" size="64,64">
+      <gearDisplay controller="c1" pages="7"/>
+    </image>
+    <image id="n9_oriu" name="n9" src="oriua" fileName="res/元素/图层 2.png" xy="32,32" pivot="0.5,0.5" anchor="true" size="64,64">
+      <gearDisplay controller="c1" pages="8"/>
+    </image>
+    <image id="n10_oriu" name="n10" src="oriub" fileName="res/元素/图层 3.png" xy="32,32" pivot="0.5,0.5" anchor="true" size="64,64">
+      <gearDisplay controller="c1" pages="9"/>
+    </image>
+    <image id="n11_oriu" name="n11" src="oriuc" fileName="res/元素/图层 4.png" xy="32,32" pivot="0.5,0.5" anchor="true" size="64,64">
+      <gearDisplay controller="c1" pages="10"/>
+    </image>
+    <image id="n12_oriu" name="n12" src="oriud" fileName="res/元素/图层 5.png" xy="32,32" pivot="0.5,0.5" anchor="true" size="64,64">
+      <gearDisplay controller="c1" pages="12"/>
+    </image>
+    <image id="n13_oriu" name="n13" src="oriue" fileName="res/元素/图层 6.png" xy="0,0" size="64,64">
+      <gearDisplay controller="c1" pages="13"/>
+    </image>
+    <image id="n14_oriu" name="n14" src="oriuf" fileName="res/元素/图层 7.png" xy="32,32" pivot="0.5,0.5" anchor="true" size="64,64">
+      <gearDisplay controller="c1" pages="11"/>
+    </image>
+    <image id="n15_oriu" name="n15" src="oriug" fileName="res/元素/图层 8.png" xy="32,32" pivot="0.5,0.5" anchor="true" size="64,64">
+      <gearDisplay controller="c1" pages="14"/>
+    </image>
+    <image id="n19_twf9" name="up" src="oriuh" fileName="res/元素/图层 9.png" xy="40,6" pivot="0.5,0.5" anchor="true" size="32,32" rotation="180">
+      <gearDisplay controller="c3" pages="1,3"/>
+    </image>
+    <image id="n20_twf9" name="down" src="oriuh" fileName="res/元素/图层 9.png" xy="40,74" pivot="0.5,0.5" anchor="true" size="32,32">
+      <gearDisplay controller="c3" pages="1,3"/>
+    </image>
+    <image id="n21_twf9" name="right" src="oriuh" fileName="res/元素/图层 9.png" xy="74,40" pivot="0.5,0.5" anchor="true" size="32,32" rotation="270">
+      <gearDisplay controller="c3" pages="2,3"/>
+    </image>
+    <image id="n22_twf9" name="lift" src="oriuh" fileName="res/元素/图层 9.png" xy="6,40" pivot="0.5,0.5" anchor="true" size="32,32" rotation="90">
+      <gearDisplay controller="c3" pages="2,3"/>
+    </image>
+    <image id="n37_zki0" name="n37" src="zki043" fileName="res/元素/未标题-1_03.png" xy="0,0" aspect="true">
+      <gearDisplay controller="c1" pages="6"/>
+    </image>
+    <image id="n38_zki0" name="n38" src="zki044" fileName="res/元素/未标题-1_05.png" xy="0,0" aspect="true">
       <gearDisplay controller="c1" pages="0"/>
     </image>
-    <image id="n2_bey6" name="n2" src="bey63" fileName="res/item_03.png" xy="32,32" pivot="0.5,0.5" anchor="true" size="64,64">
+    <image id="n39_zki0" name="n39" src="zki045" fileName="res/元素/未标题-1_07.png" xy="0,0" aspect="true">
       <gearDisplay controller="c1" pages="1"/>
     </image>
-    <image id="n1_bey6" name="n1" src="bey62" fileName="res/item_02.png" xy="32,32" pivot="0.5,0.5" anchor="true" size="64,64">
+    <image id="n40_zki0" name="n40" src="zki046" fileName="res/元素/未标题-1_09.png" xy="0,0" aspect="true">
       <gearDisplay controller="c1" pages="2"/>
     </image>
-    <image id="n3_bey6" name="n3" src="bey64" fileName="res/item_04.png" xy="0,0" size="64,64">
+    <image id="n41_zki0" name="n41" src="zki047" fileName="res/元素/未标题-1_11.png" xy="0,0" aspect="true">
       <gearDisplay controller="c1" pages="3"/>
     </image>
-    <image id="n4_bey6" name="n4" src="bey65" fileName="res/item_05.png" xy="32,32" pivot="0.5,0.5" anchor="true" size="64,64">
+    <image id="n42_zki0" name="n42" src="zki048" fileName="res/元素/未标题-1_13.png" xy="0,0" aspect="true">
       <gearDisplay controller="c1" pages="4"/>
-    </image>
-    <image id="n5_bey6" name="n5" src="bey66" fileName="res/item_06.png" xy="32,32" pivot="0.5,0.5" anchor="true" size="64,64">
-      <gearDisplay controller="c1" pages="5"/>
-    </image>
-    <image id="n7_zrm7" name="n7" src="zrm78" fileName="res/矩形 1624.png" xy="32,32" pivot="0.5,0.5" anchor="true" size="64,64">
-      <gearDisplay controller="c2" pages="1"/>
     </image>
   </displayList>
 </component>

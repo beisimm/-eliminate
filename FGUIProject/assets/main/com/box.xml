@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="64,64">
+  <controller name="c1" exported="true" pages="0,,1,,2,,3," selected="1">
+    <remark page="1" value="纵向"/>
+    <remark page="2" value="横向"/>
+    <remark page="3" value="十字"/>
+  </controller>
+  <displayList>
+    <image id="n2_oriu" name="up" src="oriuh" fileName="res/图层 9.png" xy="32,0" pivot="0.5,0.5" anchor="true" size="32,32" rotation="180">
+      <gearDisplay controller="c1" pages="1,3"/>
+    </image>
+    <image id="n0_oriu" name="down" src="oriuh" fileName="res/图层 9.png" xy="32,64" pivot="0.5,0.5" anchor="true" size="32,32">
+      <gearDisplay controller="c1" pages="1,3"/>
+    </image>
+    <image id="n3_oriu" name="right" src="oriuh" fileName="res/图层 9.png" xy="64,32" pivot="0.5,0.5" anchor="true" size="32,32" rotation="270">
+      <gearDisplay controller="c1" pages="2,3"/>
+    </image>
+    <image id="n1_oriu" name="lift" src="oriuh" fileName="res/图层 9.png" xy="0,32" pivot="0.5,0.5" anchor="true" size="32,32" rotation="90">
+      <gearDisplay controller="c1" pages="2,3"/>
+    </image>
+  </displayList>
+</component>

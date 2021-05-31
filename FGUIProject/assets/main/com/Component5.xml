@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="280,355">
+  <controller name="c1" pages="0,,1," selected="1">
+    <remark page="1" value="C位"/>
+  </controller>
+  <displayList>
+    <component id="n10_zki0" name="HpBp" src="zki038" fileName="com/ProgressBar2.xml" xy="87,0">
+      <gearDisplay controller="c1" pages="1"/>
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <text id="n11_zki0" name="nameLabel" xy="0,9" size="280,26" fontSize="18" align="center" vAlign="middle" autoSize="none" text="数学老师">
+      <gearDisplay controller="c1" pages="1"/>
+    </text>
+    <image id="n30_zki0" name="n30" src="zki03s" fileName="res/游戏主场景/角色/0e0bf3f141283760acb8d7a634e73a138b8ec486b33c-yMLm51_fw1200.png" xy="88,36"/>
+    <image id="n31_zki0" name="n31" src="zki03t" fileName="res/游戏主场景/角色/ddcbba691627232e398e4c3cbc7f5dfb45fced6ac7475-pPsesU 拷贝.png" xy="44,272">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+  </displayList>
+</component>

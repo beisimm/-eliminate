@@ -1,29 +1,29 @@
 {
   "excludeScenes": [],
   "orientation": {
-    "landscapeLeft": true,
-    "landscapeRight": true,
-    "portrait": false,
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
     "upsideDown": false
   },
   "packageName": "org.cocos2d.helloworld",
   "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
   "title": "hello_world",
-  "webOrientation": "auto",
+  "webOrientation": "portrait",
   "inlineSpriteFrames": false,
   "inlineSpriteFrames_native": true,
-  "mainCompressionType": "none",
+  "mainCompressionType": "default",
   "mainIsRemote": false,
   "optimizeHotUpdate": false,
   "md5Cache": false,
-  "nativeMd5Cache": true,
-  "encryptJs": true,
+  "nativeMd5Cache": false,
+  "encryptJs": false,
   "xxteaKey": "a02f76f4-0fba-4c",
   "zipCompressJs": true,
   "fb-instant-games": {},
   "android": {
     "REMOTE_SERVER_ROOT": "",
-    "packageName": "org.cocos2d.demo"
+    "packageName": "com.vqichehuashun.cxb"
   },
   "ios": {
     "REMOTE_SERVER_ROOT": "",
@@ -50,6 +50,6 @@
     "scheme": "https",
     "skipRecord": false
   },
-  "appBundle": false,
+  "appBundle": true,
   "agreements": {}
 }

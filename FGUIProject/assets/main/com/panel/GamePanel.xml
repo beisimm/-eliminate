@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1650" pivot="0,1" anchor="true" designImage="ui://a4fmegqmzki03b" designImageOffsetY="-150" designImageAlpha="0">
+  <displayList>
+    <image id="n30_zki0" name="n30" src="zki049" fileName="res/游戏主场景/组 31.png" xy="0,-150"/>
+    <component id="n10_zki0" name="user" src="zki03v" fileName="com/字体/Component6.xml" xy="222,447"/>
+    <component id="n14_zki0" name="boomBtn" src="zki03i" fileName="com/gameBottomBtn.xml" xy="82,1557" group="n24_zki0"/>
+    <component id="n18_zki0" name="lowBtn" src="zki03i" fileName="com/gameBottomBtn.xml" xy="277,1557" group="n24_zki0" controller="c1,1"/>
+    <component id="n19_zki0" name="randomBtn" src="zki03i" fileName="com/gameBottomBtn.xml" xy="472,1557" group="n24_zki0" controller="c1,2"/>
+    <component id="n20_zki0" name="addBtn" src="zki03i" fileName="com/gameBottomBtn.xml" xy="667,1557" group="n24_zki0" controller="c1,3"/>
+    <group id="n24_zki0" name="n24" xy="20,1499" size="708,115"/>
+    <component id="n23_zki0" name="30001" src="zki03p" fileName="com/字体/Component4.xml" xy="37,433" group="n29_zki0" controller="c1,0"/>
+    <component id="n25_zki0" name="30002" src="zki03p" fileName="com/字体/Component4.xml" xy="37,537" group="n29_zki0" controller="c1,1"/>
+    <component id="n26_zki0" name="30003" src="zki03p" fileName="com/字体/Component4.xml" xy="37,641" group="n29_zki0" controller="c1,2"/>
+    <component id="n27_zki0" name="30004" src="zki03p" fileName="com/字体/Component4.xml" xy="660,538" group="n29_zki0" controller="c1,3"/>
+    <component id="n28_zki0" name="30005" src="zki03p" fileName="com/字体/Component4.xml" xy="660,635" group="n29_zki0" controller="c1,4"/>
+    <group id="n29_zki0" name="n29" xy="37,433" size="688,277"/>
+  </displayList>
+</component>

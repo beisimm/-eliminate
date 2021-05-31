@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="800,600">
+<component size="750,32">
   <displayList>
-    <component id="n0_f18g" name="abc" src="mawg0" fileName="com/Component1.xml" xy="120,97"/>
+    <text id="n0_s6v7" name="score" xy="3,-238" size="750,270" font="ui://a4fmegqmzki02w" fontSize="22" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="这是一段测试文字123456789+-&#xA;限时BOSS步数:56步关卡升级道具下一级:伤害+升级需要消耗道具兑换已收集升级MAX16:00开放下一关点击任意处关闭金币衣服碎片现在让我们开始游戏吧!HI!你好呀，我是你们的好朋友小艾，欢迎来到口红消消乐跳过腾讯视频VIPTF口红*1碎片商店观看视频获得一次免费道具的使用，您也可以选择金币购买获得观看视频-300关卡奖励123456789+-*/\，。&#xA;&#xA;"/>
+    <text id="n1_s6v7" name="current" xy="3,32" size="750,32" fontSize="22" color="#ffffff" align="center" vAlign="middle" autoSize="none" autoClearText="true" text="当前得分:100"/>
+    <text id="n2_s6v7" name="continuous" xy="3,64" size="750,32" fontSize="22" color="#ffffff" align="center" vAlign="middle" autoSize="none" autoClearText="true" text="当前得分:100"/>
+    <text id="n3_w8w2" name="uid" xy="0,96" size="750,32" fontSize="22" color="#ffffff" align="center" vAlign="middle" autoSize="none" autoClearText="true" text="当前得分:100"/>
   </displayList>
 </component>

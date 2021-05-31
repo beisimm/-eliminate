@@ -17,7 +17,7 @@
     "getMemberByName": true,
     "codeType": ""
   },
-  "includeHighResolution": 0,
+  "includeHighResolution": 4,
   "branchProcessing": 0,
   "seperatedAtlasForBranch": false,
   "atlasSetting": {
@@ -30,6 +30,6 @@
   },
   "include2x": false,
   "include3x": false,
-  "include4x": false,
+  "include4x": true,
   "fileName": "Publish"
 }

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="122,145">
+  <controller name="c1" exported="true" pages="0,,1," selected="0"/>
+  <controller name="c2" exported="true" pages="0,,4,,1,,2,,3,,5,,6," selected="6"/>
+  <displayList>
+    <image id="n6_ajye" name="n6" src="ajye4m" fileName="res/关卡进入页/组 9.png" xy="0,0"/>
+    <image id="n9_ajye" name="n9" src="ajye4o" fileName="res/关卡进入页/da9b494746dc997968a4599f0ac6fb09ac7c2e7cd5db-nV2IKq 拷贝 2.png" xy="31,18">
+      <gearDisplay controller="c2" pages="0"/>
+    </image>
+    <text id="n10_ajye" name="awardLabel" xy="0,91" size="122,54" font="ui://a4fmegqmajye4n" fontSize="19" color="#a58181" align="center" autoSize="none" text="金币*128&#xA;"/>
+    <image id="n11_ajye" name="n11" src="ajye4p" fileName="res/关卡进入页/组 10.png" xy="0,0">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <image id="n12_ajye" name="n12" src="ajye4r" fileName="res/游戏主场景/两侧加成按钮/1232312312.png" xy="34,10">
+      <gearDisplay controller="c2" pages="1"/>
+    </image>
+    <image id="n13_ajye" name="n13" src="ajye4s" fileName="res/游戏主场景/两侧加成按钮/矢量智能对象.png" xy="20,11">
+      <gearDisplay controller="c2" pages="2"/>
+    </image>
+    <image id="n14_ajye" name="n14" src="ajye4v" fileName="res/游戏主场景/两侧加成按钮/组 5.png" xy="26,10">
+      <gearDisplay controller="c2" pages="3"/>
+    </image>
+    <image id="n15_ajye" name="n15" src="ajye4t" fileName="res/游戏主场景/两侧加成按钮/矢量智能对象-1.png" xy="12,20">
+      <gearDisplay controller="c2" pages="4"/>
+    </image>
+    <image id="n16_ajye" name="n16" src="ajye4w" fileName="res/游戏主场景/两侧加成按钮/9c4bc4d9ba003c5bb68fc35e6c662dbffe01e8324b557-zMPylo.png" xy="25,7">
+      <gearDisplay controller="c2" pages="5"/>
+    </image>
+    <image id="n17_ajye" name="n17" src="ajye4x" fileName="res/游戏主场景/两侧加成按钮/b8dc633a516df519738607c1688daf06a67fbcd328ab9-GWNc01.png" xy="28,9">
+      <gearDisplay controller="c2" pages="6"/>
+    </image>
+  </displayList>
+</component>

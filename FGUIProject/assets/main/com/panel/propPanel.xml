@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1800" designImage="ui://a4fmegqmevv15e" designImageAlpha="0" designImageLayer="1">
+  <displayList>
+    <graph id="n14_evv1" name="bg" xy="0,0" size="750,1800" type="rect" lineSize="0" fillColor="#7f000000">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <image id="n0_evv1" name="n0" src="ajye4f" fileName="res/关卡进入页/组 8.png" xy="32,454" size="686,890" group="n13_evv1"/>
+    <image id="n15_evv1" name="n15" src="evv15i" fileName="res/道具/组 29.png" xy="150,546" group="n13_evv1"/>
+    <component id="n1_evv1" name="closeBtn" src="ajye4j" fileName="com/Bottom/closeBtn.xml" xy="54,486" group="n13_evv1"/>
+    <text id="n2_evv1" name="title" xy="129,482" size="505,56" group="n13_evv1" font="ui://a4fmegqmajye4n" fontSize="42" color="#a58181" align="center" autoSize="none" text="道具&#xA;"/>
+    <component id="n3_evv1" name="30001" src="evv15h" fileName="com/propItem.xml" xy="66,602" group="n12_evv1" controller="c1,0"/>
+    <component id="n8_evv1" name="30002" src="evv15h" fileName="com/propItem.xml" xy="61,828" group="n12_evv1" controller="c1,1"/>
+    <component id="n9_evv1" name="30003" src="evv15h" fileName="com/propItem.xml" xy="581,828" group="n12_evv1" controller="c1,3"/>
+    <component id="n10_evv1" name="30004" src="evv15h" fileName="com/propItem.xml" xy="65,1051" group="n12_evv1" controller="c1,2"/>
+    <component id="n11_evv1" name="30005" src="evv15h" fileName="com/propItem.xml" xy="583,1053" group="n12_evv1" controller="c1,4"/>
+    <group id="n12_evv1" name="n12" xy="61,602" size="644,581" group="n13_evv1"/>
+    <group id="n13_evv1" name="n13" xy="32,454" size="686,890" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

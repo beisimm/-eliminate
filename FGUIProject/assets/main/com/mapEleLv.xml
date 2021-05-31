@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="25,25">
+  <controller name="c1" exported="true" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n6_u07x" name="n6" src="u07x15" fileName="res/地图元素/钻石灰.png" xy="0,0">
+      <gearDisplay controller="c1" pages="0"/>
+    </image>
+    <image id="n7_u07x" name="n7" src="u07x14" fileName="res/地图元素/钻石.png" xy="0,0">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+  </displayList>
+</component>

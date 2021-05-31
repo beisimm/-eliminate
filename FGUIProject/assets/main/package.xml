@@ -2,14 +2,140 @@
 <packageDescription id="a4fmegqm">
   <resources>
     <component id="mawg0" name="Component1.xml" path="/com/" exported="true"/>
-    <image id="bey61" name="item_01.png" path="/res/"/>
-    <image id="bey62" name="item_02.png" path="/res/"/>
-    <image id="bey63" name="item_03.png" path="/res/"/>
-    <image id="bey64" name="item_04.png" path="/res/"/>
-    <image id="bey65" name="item_05.png" path="/res/"/>
-    <image id="bey66" name="item_06.png" path="/res/"/>
-    <component id="f18g7" name="Component2.xml" path="/com/" exported="true"/>
-    <image id="zrm78" name="矩形 1624.png" path="/res/"/>
+    <component id="f18g7" name="panl.xml" path="/com/"/>
+    <image id="zrm78" name="矩形 1624.png" path="/res/元素/"/>
+    <image id="oriu9" name="图层 1.png" path="/res/元素/"/>
+    <image id="oriua" name="图层 2.png" path="/res/元素/"/>
+    <image id="oriub" name="图层 3.png" path="/res/元素/"/>
+    <image id="oriuc" name="图层 4.png" path="/res/元素/"/>
+    <image id="oriud" name="图层 5.png" path="/res/元素/"/>
+    <image id="oriue" name="图层 6.png" path="/res/元素/"/>
+    <image id="oriuf" name="图层 7.png" path="/res/元素/"/>
+    <image id="oriug" name="图层 8.png" path="/res/元素/"/>
+    <image id="oriuh" name="图层 9.png" path="/res/元素/"/>
+    <component id="oriui" name="box.xml" path="/com/"/>
+    <component id="s6v7o" name="Component2.xml" path="/com/" exported="true"/>
+    <image id="u07x10" name="组 11.png" path="/res/效果图/"/>
+    <image id="u07x11" name="组 14.png" path="/res/地图/"/>
+    <component id="u07x12" name="mapEleLv.xml" path="/com/"/>
+    <image id="u07x14" name="钻石.png" path="/res/地图元素/"/>
+    <image id="u07x15" name="钻石灰.png" path="/res/地图元素/"/>
+    <component id="u07x16" name="mapEleLvArr.xml" path="/com/"/>
+    <image id="u07x17" name="矢量智能对象.png" path="/res/地图元素/"/>
+    <image id="u07x18" name="组 17.png" path="/res/地图元素/"/>
+    <image id="zki01z" name="未标题-1_03.png" path="/res/字体/"/>
+    <image id="zki020" name="未标题-1_05.png" path="/res/字体/"/>
+    <image id="zki021" name="未标题-1_07.png" path="/res/字体/"/>
+    <image id="zki022" name="未标题-1_09.png" path="/res/字体/"/>
+    <image id="zki023" name="未标题-1_11.png" path="/res/字体/"/>
+    <image id="zki024" name="未标题-1_13.png" path="/res/字体/"/>
+    <image id="zki025" name="未标题-1_15.png" path="/res/字体/"/>
+    <image id="zki026" name="未标题-1_17.png" path="/res/字体/"/>
+    <image id="zki027" name="未标题-1_19.png" path="/res/字体/"/>
+    <image id="zki028" name="未标题-1_21.png" path="/res/字体/"/>
+    <image id="zki029" name="未标题-1_33.png" path="/res/字体/"/>
+    <image id="zki02a" name="未标题-1_35.png" path="/res/字体/"/>
+    <font id="zki02b" name="Font1.fnt" path="/com/字体/" exported="true"/>
+    <component id="zki02c" name="map.xml" path="/com/" exported="true"/>
+    <image id="zki02d" name="效果图.png" path="/res/效果图/"/>
+    <image id="zki02e" name="组 16.png" path="/res/地图/"/>
+    <image id="zki02f" name="效果图(1).png" path="/res/效果图/"/>
+    <image id="zki02g" name="组 9.png" path="/res/地图/"/>
+    <image id="zki02h" name="地图.png" path="/res/地图/"/>
+    <image id="zki02i" name="效果图(2).png" path="/res/效果图/"/>
+    <image id="zki02j" name="效果图(3).png" path="/res/效果图/"/>
+    <image id="zki02k" name="组 10.png" path="/res/地图/"/>
+    <component id="zki02l" name="TopUi.xml" path="/com/" exported="true"/>
+    <image id="zki02m" name="道具.png" path="/res/常住节点及ui/"/>
+    <image id="zki02n" name="组 14.png" path="/res/常住节点及ui/"/>
+    <image id="zki02o" name="矩形 5 拷贝.png" path="/res/常住节点及ui/"/>
+    <image id="zki02p" name="da9b494746dc997968a4599f0ac6fb09ac7c2e7cd5db-nV2IKq 拷贝.png" path="/res/常住节点及ui/"/>
+    <image id="zki02q" name="体力.png" path="/res/常住节点及ui/"/>
+    <image id="zki02r" name="商店.png" path="/res/常住节点及ui/"/>
+    <component id="zki02s" name="djbtn.xml" path="/com/Bottom/"/>
+    <component id="zki02t" name="sdBtn.xml" path="/com/Bottom/"/>
+    <component id="zki02u" name="bossBtn.xml" path="/com/Bottom/"/>
+    <image id="zki02v" name="怪消灭后多余的步数打到宝箱.png" path="/res/效果图/"/>
+    <image id="zki02x" name="主页面.png" path="/res/效果图/"/>
+    <component id="zki02y" name="GamePanel.xml" path="/com/panel/" exported="true"/>
+    <image id="zki02z" name="地图.png" path="/res/游戏主场景/"/>
+    <image id="zki030" name="组 30.png" path="/res/游戏主场景/"/>
+    <image id="zki032" name="矩形 8 拷贝.png" path="/res/游戏主场景/" scale="tile" scale9grid="78,4,156,8"/>
+    <image id="zki033" name="矩形 8.png" path="/res/游戏主场景/"/>
+    <component id="zki034" name="ProgressBar1.xml" path="/com/"/>
+    <component id="zki035" name="zs.xml" path="/com/"/>
+    <image id="zki036" name="21423.png" path="/res/游戏主场景/"/>
+    <image id="zki037" name="2312.png" path="/res/游戏主场景/" scale="tile"/>
+    <component id="zki038" name="ProgressBar2.xml" path="/com/"/>
+    <image id="zki03a" name="IST_21210_03321 [转换].png" path="/res/地图元素/"/>
+    <image id="zki03b" name="效果图(4).png" path="/res/效果图/"/>
+    <image id="zki03c" name="+5.png" path="/res/游戏主场景/底部按钮/"/>
+    <image id="zki03d" name="d0ed706874ded52af59075c2936def7005b511b9177a0-XSYjxB.png" path="/res/游戏主场景/底部按钮/"/>
+    <image id="zki03e" name="打乱.png" path="/res/游戏主场景/底部按钮/"/>
+    <image id="zki03f" name="组 1 拷贝.png" path="/res/游戏主场景/底部按钮/"/>
+    <image id="zki03g" name="组 24.png" path="/res/游戏主场景/底部按钮/"/>
+    <image id="zki03h" name="组 27.png" path="/res/游戏主场景/底部按钮/"/>
+    <component id="zki03i" name="gameBottomBtn.xml" path="/com/"/>
+    <image id="zki03j" name="组 32.png" path="/res/游戏主场景/两侧加成按钮/"/>
+    <image id="zki03k" name="组 33.png" path="/res/游戏主场景/两侧加成按钮/"/>
+    <image id="zki03l" name="组 35.png" path="/res/游戏主场景/两侧加成按钮/"/>
+    <image id="zki03m" name="234.png" path="/res/游戏主场景/两侧加成按钮/"/>
+    <image id="zki03n" name="32423 (1).png" path="/res/游戏主场景/两侧加成按钮/"/>
+    <component id="zki03p" name="Component4.xml" path="/com/字体/"/>
+    <image id="zki03q" name="a8980c0f959aeb2d442f2dd305b241c27356feda187bf-Z5Ep5E_fw1200.png" path="/res/游戏主场景/角色/"/>
+    <image id="zki03r" name="ac4eecf632bc931d171172be7e74f6a324b528bb10db5c-7z4iUM_fw1200.png" path="/res/游戏主场景/角色/"/>
+    <image id="zki03s" name="0e0bf3f141283760acb8d7a634e73a138b8ec486b33c-yMLm51_fw1200.png" path="/res/游戏主场景/角色/"/>
+    <image id="zki03t" name="ddcbba691627232e398e4c3cbc7f5dfb45fced6ac7475-pPsesU 拷贝.png" path="/res/游戏主场景/角色/"/>
+    <component id="zki03u" name="Component5.xml" path="/com/"/>
+    <component id="zki03v" name="Component6.xml" path="/com/字体/"/>
+    <image id="zki043" name="未标题-1_03.png" path="/res/元素/"/>
+    <image id="zki044" name="未标题-1_05.png" path="/res/元素/"/>
+    <image id="zki045" name="未标题-1_07.png" path="/res/元素/"/>
+    <image id="zki046" name="未标题-1_09.png" path="/res/元素/"/>
+    <image id="zki047" name="未标题-1_11.png" path="/res/元素/"/>
+    <image id="zki048" name="未标题-1_13.png" path="/res/元素/"/>
+    <image id="zki049" name="组 31.png" path="/res/游戏主场景/"/>
+    <image id="zki04a" name="矩形 7 拷贝 6.png" path="/res/游戏主场景/"/>
+    <component id="zki04b" name="itemBg.xml" path="/com/" exported="true"/>
+    <component id="zki04c" name="GameTopUi.xml" path="/com/" exported="true"/>
+    <component id="ajye4d" name="StartPanel.xml" path="/com/panel/" exported="true"/>
+    <image id="ajye4e" name="效果图(5).png" path="/res/效果图/"/>
+    <image id="ajye4f" name="组 8.png" path="/res/关卡进入页/" scale="9grid" scale9grid="171,160,342,320"/>
+    <image id="ajye4h" name="12324.png" path="/res/关卡进入页/"/>
+    <image id="ajye4i" name="组 28.png" path="/res/关卡进入页/"/>
+    <component id="ajye4j" name="closeBtn.xml" path="/com/Bottom/"/>
+    <image id="ajye4k" name="234235.png" path="/res/关卡进入页/"/>
+    <component id="ajye4l" name="GoBtn.xml" path="/com/Bottom/"/>
+    <image id="ajye4m" name="组 9.png" path="/res/关卡进入页/"/>
+    <font id="ajye4n" name="my1.ttf" path="/com/字体/" renderMode="" samplePointSize="16"/>
+    <image id="ajye4o" name="da9b494746dc997968a4599f0ac6fb09ac7c2e7cd5db-nV2IKq 拷贝 2.png" path="/res/关卡进入页/"/>
+    <image id="ajye4p" name="组 10.png" path="/res/关卡进入页/"/>
+    <component id="ajye4q" name="GameStartItem.xml" path="/com/"/>
+    <image id="ajye4r" name="1232312312.png" path="/res/游戏主场景/两侧加成按钮/"/>
+    <image id="ajye4s" name="矢量智能对象.png" path="/res/游戏主场景/两侧加成按钮/"/>
+    <image id="ajye4t" name="矢量智能对象-1.png" path="/res/游戏主场景/两侧加成按钮/"/>
+    <image id="ajye4u" name="图层23 副本.png" path="/res/游戏主场景/两侧加成按钮/"/>
+    <image id="ajye4v" name="组 5.png" path="/res/游戏主场景/两侧加成按钮/"/>
+    <image id="ajye4w" name="9c4bc4d9ba003c5bb68fc35e6c662dbffe01e8324b557-zMPylo.png" path="/res/游戏主场景/两侧加成按钮/"/>
+    <image id="ajye4x" name="b8dc633a516df519738607c1688daf06a67fbcd328ab9-GWNc01.png" path="/res/游戏主场景/两侧加成按钮/"/>
+    <component id="ps3054" name="EndPanel.xml" path="/com/panel/" exported="true"/>
+    <image id="ps3055" name="效果图(6).png" path="/res/效果图/"/>
+    <image id="evv156" name="组 28.png" path="/res/游戏结束/"/>
+    <image id="evv157" name="矩形 5.png" path="/res/游戏结束/"/>
+    <image id="evv158" name="失败效果图.png" path="/res/效果图/"/>
+    <image id="evv159" name="矩形 5(1).png" path="/res/游戏结束/"/>
+    <image id="evv15a" name="闯关失败.png" path="/res/游戏结束/"/>
+    <image id="evv15b" name="组 31.png" path="/res/游戏结束/"/>
+    <image id="evv15c" name="8f380344c25b329b910ab59ec6b238a439587f5afbf2-gZPMOc.png" path="/res/游戏结束/"/>
+    <component id="evv15d" name="propPanel.xml" path="/com/panel/" exported="true"/>
+    <image id="evv15e" name="效果图(7).png" path="/res/效果图/"/>
+    <image id="evv15f" name="椭圆 2 拷贝 4.png" path="/res/道具/"/>
+    <image id="evv15g" name="组 30.png" path="/res/道具/"/>
+    <component id="evv15h" name="propItem.xml" path="/com/"/>
+    <image id="evv15i" name="组 29.png" path="/res/道具/"/>
+    <component id="ooxq5j" name="ShopPanel.xml" path="/com/panel/" exported="true"/>
+    <image id="ooxq5k" name="效果图(8).png" path="/res/效果图/"/>
+    <image id="ooxq5l" name="矩形 11 拷贝.png" path="/res/游戏主场景/"/>
   </resources>
   <publish name="" genCode="true"/>
 </packageDescription>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="377,528" designImage="ui://a4fmegqmzki02d" designImageOffsetX="-4" designImageOffsetY="17" designImageAlpha="0">
+  <displayList>
+    <image id="n5_zki0" name="n5" src="zki02o" fileName="res/常住节点及ui/矩形 5 拷贝.png" xy="0,3" group="n9_zki0"/>
+    <image id="n6_zki0" name="n6" src="zki02o" fileName="res/常住节点及ui/矩形 5 拷贝.png" xy="184,1" group="n9_zki0"/>
+    <image id="n0_zki0" name="n0" src="zki02p" fileName="res/常住节点及ui/da9b494746dc997968a4599f0ac6fb09ac7c2e7cd5db-nV2IKq 拷贝.png" xy="16,6" group="n9_zki0"/>
+    <image id="n4_zki0" name="n4" src="zki02q" fileName="res/常住节点及ui/体力.png" xy="211,0" group="n9_zki0"/>
+    <text id="n7_zki0" name="coinLabel" xy="58,9" size="123,34" group="n9_zki0" font="ui://a4fmegqmzki02b" fontSize="12" color="#ffffff" align="center" autoSize="none" text="3245" input="true"/>
+    <text id="n8_zki0" name="powerLabel" xy="247,8" size="123,34" group="n9_zki0" font="ui://a4fmegqmzki02b" fontSize="12" color="#ffffff" align="center" autoSize="none" text="3245" input="true"/>
+    <component id="n10_zki0" name="bossBtn" src="zki02u" fileName="com/Bottom/bossBtn.xml" xy="12,385" group="n9_zki0"/>
+    <component id="n11_zki0" name="djBtn" src="zki02s" fileName="com/Bottom/djbtn.xml" xy="12,255" group="n9_zki0"/>
+    <component id="n12_zki0" name="sdBtn" src="zki02t" fileName="com/Bottom/sdBtn.xml" xy="12,123" group="n9_zki0"/>
+    <group id="n9_zki0" name="n9" xy="0,0" size="377,497"/>
+  </displayList>
+</component>

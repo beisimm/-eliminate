@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1650" pivot="0,1" anchor="true" designImage="ui://a4fmegqmzki02j" designImageOffsetY="-150" designImageAlpha="0" designImageLayer="1">
+  <controller name="c1" alias="地图切换" pages="0,,1,,2,,3,,4," selected="4">
+    <remark page="0" value="高中"/>
+    <remark page="1" value="大学"/>
+    <remark page="2" value="职场"/>
+    <remark page="3" value="恋爱"/>
+    <remark page="4" value="结婚"/>
+  </controller>
+  <displayList>
+    <image id="n10_zki0" name="n10" src="zki02e" fileName="res/地图/组 16.png" xy="0,-150" group="n11_zki0"/>
+    <component id="n0_zki0" name="map1" src="u07x16" fileName="com/mapEleLvArr.xml" xy="600,1309" group="n11_zki0" controller="c2,3"/>
+    <component id="n1_zki0" name="map2" src="u07x16" fileName="com/mapEleLvArr.xml" xy="348,1276" group="n11_zki0"/>
+    <component id="n2_zki0" name="map3" src="u07x16" fileName="com/mapEleLvArr.xml" xy="110,1244" group="n11_zki0"/>
+    <component id="n3_zki0" name="map4" src="u07x16" fileName="com/mapEleLvArr.xml" xy="12,1004" group="n11_zki0"/>
+    <component id="n4_zki0" name="map5" src="u07x16" fileName="com/mapEleLvArr.xml" xy="276,1003" group="n11_zki0"/>
+    <component id="n5_zki0" name="map6" src="u07x16" fileName="com/mapEleLvArr.xml" xy="532,1004" group="n11_zki0"/>
+    <component id="n6_zki0" name="map7" src="u07x16" fileName="com/mapEleLvArr.xml" xy="358,838" group="n11_zki0"/>
+    <component id="n7_zki0" name="map8" src="u07x16" fileName="com/mapEleLvArr.xml" xy="180,750" group="n11_zki0"/>
+    <component id="n8_zki0" name="map9" src="u07x16" fileName="com/mapEleLvArr.xml" xy="318,635" group="n11_zki0"/>
+    <component id="n9_zki0" name="map10" src="u07x16" fileName="com/mapEleLvArr.xml" xy="517,639" group="n11_zki0"/>
+    <group id="n11_zki0" name="n11" xy="0,-150" size="750,1800" advanced="true">
+      <gearDisplay controller="c1" pages="0"/>
+    </group>
+    <image id="n23_zki0" name="n23" src="u07x11" fileName="res/地图/组 14.png" xy="0,-150" group="n24_zki0"/>
+    <component id="n14_zki0" name="map11" src="u07x16" fileName="com/mapEleLvArr.xml" xy="381,1344" group="n24_zki0"/>
+    <component id="n13_zki0" name="map12" src="u07x16" fileName="com/mapEleLvArr.xml" xy="521,1202" group="n24_zki0"/>
+    <component id="n15_zki0" name="map13" src="u07x16" fileName="com/mapEleLvArr.xml" xy="509,1009" group="n24_zki0"/>
+    <component id="n16_zki0" name="map14" src="u07x16" fileName="com/mapEleLvArr.xml" xy="291,927" group="n24_zki0"/>
+    <component id="n17_zki0" name="map15" src="u07x16" fileName="com/mapEleLvArr.xml" xy="91,862" group="n24_zki0"/>
+    <component id="n18_zki0" name="map16" src="u07x16" fileName="com/mapEleLvArr.xml" xy="453,792" group="n24_zki0"/>
+    <component id="n19_zki0" name="map17" src="u07x16" fileName="com/mapEleLvArr.xml" xy="297,668" group="n24_zki0"/>
+    <component id="n20_zki0" name="map18" src="u07x16" fileName="com/mapEleLvArr.xml" xy="550,579" group="n24_zki0"/>
+    <component id="n21_zki0" name="map19" src="u07x16" fileName="com/mapEleLvArr.xml" xy="406,518" group="n24_zki0"/>
+    <component id="n22_zki0" name="map20" src="u07x16" fileName="com/mapEleLvArr.xml" xy="244,478" group="n24_zki0"/>
+    <group id="n24_zki0" name="n24" xy="0,-150" size="750,1800" advanced="true">
+      <gearDisplay controller="c1" pages="1"/>
+    </group>
+    <image id="n25_zki0" name="n25" src="zki02g" fileName="res/地图/组 9.png" xy="0,-150" group="n36_zki0"/>
+    <component id="n26_zki0" name="map21" src="u07x16" fileName="com/mapEleLvArr.xml" xy="323,1362" group="n36_zki0"/>
+    <component id="n27_zki0" name="map22" src="u07x16" fileName="com/mapEleLvArr.xml" xy="468,1235" group="n36_zki0"/>
+    <component id="n28_zki0" name="map23" src="u07x16" fileName="com/mapEleLvArr.xml" xy="594,1103" group="n36_zki0"/>
+    <component id="n29_zki0" name="map24" src="u07x16" fileName="com/mapEleLvArr.xml" xy="370,1038" group="n36_zki0"/>
+    <component id="n30_zki0" name="map25" src="u07x16" fileName="com/mapEleLvArr.xml" xy="195,1001" group="n36_zki0"/>
+    <component id="n31_zki0" name="map26" src="u07x16" fileName="com/mapEleLvArr.xml" xy="25,975" group="n36_zki0"/>
+    <component id="n32_zki0" name="map27" src="u07x16" fileName="com/mapEleLvArr.xml" xy="32,814" group="n36_zki0"/>
+    <component id="n33_zki0" name="map28" src="u07x16" fileName="com/mapEleLvArr.xml" xy="209,811" group="n36_zki0"/>
+    <component id="n34_zki0" name="map29" src="u07x16" fileName="com/mapEleLvArr.xml" xy="388,802" group="n36_zki0"/>
+    <component id="n35_zki0" name="map30" src="u07x16" fileName="com/mapEleLvArr.xml" xy="577,806" group="n36_zki0"/>
+    <group id="n36_zki0" name="n36" xy="0,-150" size="750,1800" advanced="true">
+      <gearDisplay controller="c1" pages="2"/>
+    </group>
+    <image id="n37_zki0" name="n37" src="zki02h" fileName="res/地图/地图.png" xy="0,-150" group="n49_zki0"/>
+    <component id="n39_zki0" name="map31" src="u07x16" fileName="com/mapEleLvArr.xml" xy="350,1256" group="n49_zki0"/>
+    <component id="n40_zki0" name="map32" src="u07x16" fileName="com/mapEleLvArr.xml" xy="551,1168" group="n49_zki0"/>
+    <component id="n41_zki0" name="map33" src="u07x16" fileName="com/mapEleLvArr.xml" xy="622,897" group="n49_zki0"/>
+    <component id="n42_zki0" name="map34" src="u07x16" fileName="com/mapEleLvArr.xml" xy="390,901" group="n49_zki0"/>
+    <component id="n43_zki0" name="map35" src="u07x16" fileName="com/mapEleLvArr.xml" xy="133,903" group="n49_zki0"/>
+    <component id="n45_zki0" name="map36" src="u07x16" fileName="com/mapEleLvArr.xml" xy="55,708" group="n49_zki0"/>
+    <component id="n46_zki0" name="map37" src="u07x16" fileName="com/mapEleLvArr.xml" xy="277,640" group="n49_zki0"/>
+    <component id="n47_zki0" name="map38" src="u07x16" fileName="com/mapEleLvArr.xml" xy="476,587" group="n49_zki0"/>
+    <component id="n48_zki0" name="map39" src="u07x16" fileName="com/mapEleLvArr.xml" xy="334,440" group="n49_zki0"/>
+    <component id="n38_zki0" name="map40" src="u07x16" fileName="com/mapEleLvArr.xml" xy="206,352" group="n49_zki0"/>
+    <group id="n49_zki0" name="n49" xy="0,-150" size="750,1800" advanced="true">
+      <gearDisplay controller="c1" pages="3"/>
+    </group>
+    <image id="n50_zki0" name="n50" src="zki02k" fileName="res/地图/组 10.png" xy="0,-150" group="n61_zki0"/>
+    <component id="n51_zki0" name="map41" src="u07x16" fileName="com/mapEleLvArr.xml" xy="242,1267" group="n61_zki0"/>
+    <component id="n52_zki0" name="map42" src="u07x16" fileName="com/mapEleLvArr.xml" xy="433,1181" group="n61_zki0"/>
+    <component id="n53_zki0" name="map43" src="u07x16" fileName="com/mapEleLvArr.xml" xy="578,1078" group="n61_zki0"/>
+    <component id="n54_zki0" name="map44" src="u07x16" fileName="com/mapEleLvArr.xml" xy="451,985" group="n61_zki0"/>
+    <component id="n55_zki0" name="map45" src="u07x16" fileName="com/mapEleLvArr.xml" xy="275,924" group="n61_zki0"/>
+    <component id="n56_zki0" name="map46" src="u07x16" fileName="com/mapEleLvArr.xml" xy="123,869" group="n61_zki0"/>
+    <component id="n57_zki0" name="map47" src="u07x16" fileName="com/mapEleLvArr.xml" xy="183,700" group="n61_zki0"/>
+    <component id="n58_zki0" name="map48" src="u07x16" fileName="com/mapEleLvArr.xml" xy="328,678" group="n61_zki0"/>
+    <component id="n59_zki0" name="map49" src="u07x16" fileName="com/mapEleLvArr.xml" xy="432,585" group="n61_zki0"/>
+    <component id="n60_zki0" name="map50" src="u07x16" fileName="com/mapEleLvArr.xml" xy="304,493" group="n61_zki0"/>
+    <group id="n61_zki0" name="n61" xy="0,-150" size="750,1800" advanced="true">
+      <gearDisplay controller="c1" pages="4"/>
+    </group>
+    <image id="n63_zki0" name="liftBtn" src="oriuh" fileName="res/元素/图层 9.png" xy="40,992" pivot="0.5,0.5" anchor="true" rotation="90">
+      <gearDisplay controller="c1" pages="1,2,3,4"/>
+    </image>
+    <image id="n64_zki0" name="rightBtn" src="oriuh" fileName="res/元素/图层 9.png" xy="709,992" pivot="0.5,0.5" anchor="true" rotation="270">
+      <gearDisplay controller="c1" pages="0,1,2,3"/>
+    </image>
+  </displayList>
+</component>

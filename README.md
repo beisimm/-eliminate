@@ -1,1 +1,2 @@
-这是一个消消乐游戏的半成品,语言TS,搭配FGUI
+# hello-world
+Hello world new project template.

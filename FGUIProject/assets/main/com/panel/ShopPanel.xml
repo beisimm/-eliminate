@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1800" designImage="ui://a4fmegqmooxq5k" designImageOffsetY="-166" designImageAlpha="74" designImageLayer="1">
+  <displayList>
+    <graph id="n0_ooxq" name="bg" xy="0,0" size="750,1800" type="rect" lineSize="0" fillColor="#7f000000">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <image id="n1_ooxq" name="n1" src="ajye4f" fileName="res/关卡进入页/组 8.png" xy="31,580" group="n4_ooxq"/>
+    <component id="n2_ooxq" name="closeBtn" src="ajye4j" fileName="com/Bottom/closeBtn.xml" xy="56,619" group="n4_ooxq"/>
+    <text id="n3_ooxq" name="title" xy="127,620" size="505,56" group="n4_ooxq" font="ui://a4fmegqmajye4n" fontSize="42" color="#a58181" align="center" vAlign="middle" autoSize="none" text="碎片商店"/>
+    <group id="n4_ooxq" name="n4" xy="31,580" size="686,640" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

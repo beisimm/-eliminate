@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="106,6" extention="ProgressBar">
+  <displayList>
+    <image id="n0_zki0" name="n0" src="zki036" fileName="res/游戏主场景/21423.png" xy="0,0" size="106,6">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_zki0" name="bar" src="zki037" fileName="res/游戏主场景/2312.png" xy="0,0" size="106,6"/>
+  </displayList>
+  <ProgressBar/>
+</component>

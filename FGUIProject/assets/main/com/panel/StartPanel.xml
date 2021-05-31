@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1800" designImage="ui://a4fmegqmajye4e" designImageLayer="1">
+  <displayList>
+    <graph id="n14_ajye" name="bg" xy="0,0" size="750,1800" type="rect" lineSize="0" fillColor="#7f000000">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <graph id="n16_ajye" name="blackInput" xy="37,584" size="680,636" group="n15_ajye" type="rect" lineSize="0" fillColor="#00ffffff"/>
+    <image id="n0_ajye" name="n0" src="ajye4f" fileName="res/关卡进入页/组 8.png" xy="32,579" group="n15_ajye"/>
+    <image id="n2_ajye" name="n2" src="ajye4h" fileName="res/关卡进入页/12324.png" xy="35,846" group="n15_ajye"/>
+    <component id="n4_ajye" name="closeBtn" src="ajye4j" fileName="com/Bottom/closeBtn.xml" xy="50,599" group="n15_ajye"/>
+    <component id="n5_ajye" name="GoBtn" src="ajye4l" fileName="com/Bottom/GoBtn.xml" xy="195,1100" group="n15_ajye"/>
+    <list id="n12_ajye" name="List" xy="35,926" size="680,139" group="n15_ajye" layout="row" overflow="scroll" colGap="64" defaultItem="ui://a4fmegqmajye4q" align="center" autoClearItems="true">
+      <item/>
+      <item/>
+    </list>
+    <text id="n13_ajye" name="content" xy="35,685" size="680,145" group="n15_ajye" font="ui://a4fmegqmajye4n" fontSize="35" color="#a58181" align="center" autoSize="none" text="这里面是内容"/>
+    <group id="n15_ajye" name="n15" xy="32,579" size="686,641" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

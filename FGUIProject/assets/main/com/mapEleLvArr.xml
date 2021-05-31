@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="109,211" designImage="ui://a4fmegqmu07x10" designImageOffsetX="-372" designImageOffsetY="-1122" designImageAlpha="0">
+  <controller name="c2" alias="解锁状态" exported="true" pages="4,,0,,1,,2,,3," selected="4">
+    <remark page="0" value="不可解锁"/>
+    <remark page="1" value="解锁未评级"/>
+    <remark page="2" value="1星"/>
+    <remark page="3" value="2星"/>
+    <remark page="4" value="3星"/>
+  </controller>
+  <displayList>
+    <image id="n1_u07x" name="n1" src="u07x18" fileName="res/地图元素/组 17.png" xy="16,35" group="n13_zki0">
+      <gearDisplay controller="c2" pages="4"/>
+    </image>
+    <image id="n2_u07x" name="n2" src="u07x17" fileName="res/地图元素/矢量智能对象.png" xy="26,39" group="n13_zki0">
+      <gearDisplay controller="c2" pages="0,1,2,3"/>
+    </image>
+    <text id="n12_u07x" name="name" xy="26,105" size="50,34" group="n13_zki0" font="ui://a4fmegqmzki02b" fontSize="12" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="1&#xA;">
+      <gearDisplay controller="c2" pages="0,1,2,3"/>
+    </text>
+    <image id="n7_u07x" name="n7" src="u07x15" fileName="res/地图元素/钻石灰.png" xy="42,0" group="n5_u07x">
+      <gearDisplay controller="c2" pages="1"/>
+    </image>
+    <image id="n8_u07x" name="n8" src="u07x15" fileName="res/地图元素/钻石灰.png" xy="84,24" group="n5_u07x">
+      <gearDisplay controller="c2" pages="1,2"/>
+    </image>
+    <image id="n9_u07x" name="n9" src="u07x14" fileName="res/地图元素/钻石.png" xy="0,24" group="n5_u07x">
+      <gearDisplay controller="c2" pages="1,2,3"/>
+    </image>
+    <image id="n10_u07x" name="n10" src="u07x14" fileName="res/地图元素/钻石.png" xy="42,0" group="n5_u07x">
+      <gearDisplay controller="c2" pages="2,3"/>
+    </image>
+    <image id="n11_u07x" name="n11" src="u07x14" fileName="res/地图元素/钻石.png" xy="84,24" group="n5_u07x">
+      <gearDisplay controller="c2" pages="3"/>
+    </image>
+    <group id="n5_u07x" name="n5" xy="0,0" size="109,49" group="n13_zki0"/>
+    <group id="n13_zki0" name="n13" xy="0,0" size="109,211"/>
+  </displayList>
+</component>

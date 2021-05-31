@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="123,115" pivot="0.5,0.5" anchor="true">
+  <controller name="c1" exported="true" pages="0,,1,,2,,3," selected="0"/>
+  <controller name="c2" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n14_zki0" name="n14" src="zki03d" fileName="res/游戏主场景/底部按钮/d0ed706874ded52af59075c2936def7005b511b9177a0-XSYjxB.png" xy="3,0" group="n17_zki0"/>
+    <image id="n15_zki0" name="n15" src="zki03g" fileName="res/游戏主场景/底部按钮/组 24.png" xy="28,21" group="n17_zki0">
+      <gearDisplay controller="c1" pages="0"/>
+    </image>
+    <image id="n18_zki0" name="n18" src="zki03f" fileName="res/游戏主场景/底部按钮/组 1 拷贝.png" xy="24,34" group="n17_zki0">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <image id="n19_zki0" name="n19" src="zki03e" fileName="res/游戏主场景/底部按钮/打乱.png" xy="25,21" group="n17_zki0">
+      <gearDisplay controller="c1" pages="2"/>
+    </image>
+    <image id="n20_zki0" name="n20" src="zki03c" fileName="res/游戏主场景/底部按钮/+5.png" xy="20,31" group="n17_zki0">
+      <gearDisplay controller="c1" pages="3"/>
+    </image>
+    <image id="n16_zki0" name="n16" src="zki03h" fileName="res/游戏主场景/底部按钮/组 27.png" xy="87,12" group="n17_zki0"/>
+    <group id="n17_zki0" name="n17" xy="3,0" size="120,115"/>
+    <image id="n21_ps30" name="n21" src="zrm78" fileName="res/元素/矩形 1624.png" xy="0,-4" size="123,123">
+      <gearDisplay controller="c2" pages="1"/>
+    </image>
+  </displayList>
+</component>

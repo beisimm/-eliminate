@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,81">
+  <displayList>
+    <image id="n1_zki0" name="n1" src="zki030" fileName="res/游戏主场景/组 30.png" xy="23,0" group="n13_zki0"/>
+    <image id="n3_zki0" name="n3" src="zki030" fileName="res/游戏主场景/组 30.png" xy="587,0" group="n13_zki0"/>
+    <text id="n2_zki0" name="gkLabel" xy="41,3" size="103,44" group="n13_zki0" font="ui://a4fmegqmzki031" fontSize="24" color="#b35400" align="center" vAlign="middle" autoSize="shrink" text="关卡:1"/>
+    <text id="n4_zki0" name="bsLabel" xy="605,3" size="103,44" group="n13_zki0" font="ui://a4fmegqmzki031" fontSize="24" color="#b35400" align="center" vAlign="middle" autoSize="shrink" text="步数:56"/>
+    <component id="n5_zki0" name="pb" src="zki034" fileName="com/ProgressBar1.xml" xy="211,16" group="n13_zki0">
+      <ProgressBar max="100"/>
+    </component>
+    <component id="n6_zki0" name="z1" src="zki035" fileName="com/zs.xml" xy="302,25" pivot="0.5,0.5" anchor="true" group="n12_zki0" grayed="true" controller="c1,1"/>
+    <component id="n7_zki0" name="z2" src="zki035" fileName="com/zs.xml" xy="413,26" pivot="0.5,0.5" anchor="true" group="n12_zki0" scale="1.25,1.25" grayed="true" controller="c1,1"/>
+    <component id="n8_zki0" name="z3" src="zki035" fileName="com/zs.xml" xy="521,26" pivot="0.5,0.5" anchor="true" group="n12_zki0" scale="1.5,1.5" grayed="true" controller="c1,1"/>
+    <group id="n12_zki0" name="n12" xy="289,12" size="244,26" group="n13_zki0"/>
+    <text id="n9_zki0" name="scoreLabel" xy="213,37" size="309,44" group="n13_zki0" font="ui://a4fmegqmzki031" fontSize="24" color="#b35400" align="center" vAlign="middle" autoSize="none" text="18842"/>
+    <group id="n13_zki0" name="n13" xy="23,0" size="705,81"/>
+  </displayList>
+</component>
